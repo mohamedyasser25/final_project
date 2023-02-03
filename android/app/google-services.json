@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121143529092",
+    "project_id": "employmen-syatem",
+    "storage_bucket": "employmen-syatem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121143529092:android:dc5cbf13c6067980e77cd1",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121143529092-23bsfp38uudp2au2hq49dpi3l49mo8iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbTYdKWRZecsO3Aaz0POU3ixi2ZkgmYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121143529092-23bsfp38uudp2au2hq49dpi3l49mo8iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
