@@ -71,6 +71,7 @@ class _LoginState extends State<Login> {
                           .signInWithEmailAndPassword(
                               email: emailController.text,
                               password: passwordController.text);
+                      print(result);
                       if (result != null) {
                         print('welcome');
                       } else {
